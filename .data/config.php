@@ -1,6 +1,6 @@
 <?php $configs = '
 {
-    "admin": "jgwy1234",
+    "admin": "888775811",
     "timezone": "8",
     "disktag": "Sharelinkmusic",
     "Sharelinkmusic": {
